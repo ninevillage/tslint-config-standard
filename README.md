@@ -1,5 +1,7 @@
 # @ninevillage/tslint-config-standard
 
+extended from https://github.com/blakeembrey/tslint-config-standard
+
 ## installation
 
 ```bash
