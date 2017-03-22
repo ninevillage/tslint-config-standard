@@ -1,0 +1,30 @@
+{
+  "name": "@ninevillage/tslint-config-standard",
+  "version": "0.0.0",
+  "description": "tslint configuration of ninevillage",
+  "main": "tslint.js",
+  "author": {
+    "name": "Ninevillage",
+    "email": "info@ninevillage.com",
+    "url": "https://www.ninevillage.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninevillage/tslint-config-standard.git"
+  },
+  "homepage": "https://github.com/ninevillage/tslint-config-standard",
+  "bugs": {
+    "email": "info@ninevillage.com",
+    "url": "https://github.com/ninevillage/tslint-config-standard/issues"
+  },
+  "scripts": {
+  },
+  "dependencies": {
+    "tslint-config-standard": "^4.0.0"
+  },
+  "devDependencies": {
+    "tslint": "^4.5.1",
+    "typescript": "^2.2.1"
+  }
+}
