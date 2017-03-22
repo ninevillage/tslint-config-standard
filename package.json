@@ -1,6 +1,6 @@
 {
   "name": "@ninevillage/tslint-config-standard",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "tslint configuration of ninevillage",
   "main": "tslint.js",
   "author": {
@@ -18,8 +18,7 @@
     "email": "info@ninevillage.com",
     "url": "https://github.com/ninevillage/tslint-config-standard/issues"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
     "tslint-config-standard": "^4.0.0"
   },
